@@ -2,8 +2,8 @@
 #
 # Copy this to ~/.config/sway/config and edit it to your liking.
 #
-# Read `man 5 sway` for a complete reference.bindsym F4 exec xbacklight -inc 5 # increase screen brightness
-
+# Read `man 5 sway` for a complete reference.bindsym F4 exec xbacklight -inc 5 # increase screen brightnedss
+default_border none
 gaps inner 4
 gaps outer 4
 ### Variables
